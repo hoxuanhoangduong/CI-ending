@@ -16,6 +16,9 @@ public class BoxColider {
         this.height = height;
     }
 
+    public BoxColider(int x, int y, int i, int i1) {
+    }
+
     public float top() {
         return this.position.y - this.anchor.y * this.height;
     }

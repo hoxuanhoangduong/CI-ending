@@ -108,7 +108,7 @@ public class GameObject {
         }
     }
 
-    public void deactive() {
+    public void deActive() {
         this.isActive = false;
     }
 

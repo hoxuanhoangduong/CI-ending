@@ -14,7 +14,7 @@ public class Key extends GameObject implements Physics {
 
     public Key(){
         ArrayList<BufferedImage> images = new ArrayList<>();
-        images.add(SpriteUtils.loadImage("E:\\Code Intensive\\ci-begin-master\\out\\production\\Project_cuoi_khoa\\asssets\\images\\keys\\key.png"));
+        images.add(SpriteUtils.loadImage("assets/images/keys/key.png"));
         this.renderer = new Animation(images);
         this.boxColider = new BoxColider(this,30,30);
     }
@@ -30,7 +30,8 @@ public class Key extends GameObject implements Physics {
     }
 
     @Override
-    public void deactive(){
-        super.deactive();
+    public void deActive(){
+        super.deActive();
+
     }
 }

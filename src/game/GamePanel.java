@@ -1,10 +1,17 @@
 package game;
 
 
+import game.enemy.Enemy;
+import game.pacman.Pacman;
+
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
 public class GamePanel extends JPanel {
+    Background background;
+    Pacman pacman;
+    Enemy enemy;
+
     public GamePanel() {
 
     }

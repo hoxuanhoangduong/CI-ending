@@ -26,7 +26,6 @@ public class Layer {
                   Wall wall = new Wall();
                   wall.position.set(titleX * 20, titleY * 20);
                GameObject.addNew(wall);
-
             }
          }
       }

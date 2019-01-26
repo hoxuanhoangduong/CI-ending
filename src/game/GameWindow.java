@@ -10,7 +10,7 @@ public class GameWindow extends JFrame {
     public static boolean isDownPress;
     public static boolean isLeftPress;
     public static boolean isRightPress;
-    public static boolean isFirePress;
+    public static boolean isEffectPress;
     public GamePanel gamePanel;
 
     public GameWindow() {
@@ -40,7 +40,7 @@ public class GameWindow extends JFrame {
                 }
 
                 if (e.getKeyCode() == 32) {
-                    GameWindow.isFirePress = true;
+                    GameWindow.isEffectPress = true;
                 }
 
             }
@@ -63,7 +63,7 @@ public class GameWindow extends JFrame {
                 }
 
                 if (e.getKeyCode() == 32) {
-                    GameWindow.isFirePress = false;
+                    GameWindow.isEffectPress = false;
                 }
 
             }
@@ -72,7 +72,7 @@ public class GameWindow extends JFrame {
 
     private void createGamePanel() {
         this.gamePanel = new GamePanel();
-        this.gamePanel.setPreferredSize(new Dimension(1000, 1000));
+        this.gamePanel.setPreferredSize(new Dimension(400, 400));
         this.add(this.gamePanel);
         this.pack();
     }
