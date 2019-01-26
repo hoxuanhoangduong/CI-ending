@@ -12,7 +12,7 @@ public class Wall extends GameObject {
 
     public int isType;
 
-    public Wall() {
+    public Wall(String url) {
         super();
         if(url != null){
             BufferedImage image = SpriteUtils.loadImage(url);
