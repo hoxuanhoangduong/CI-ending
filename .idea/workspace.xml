@@ -2,66 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba329b2-e7fb-4872-9c29-648d7e706042" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/GameObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Vector2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/enemy/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/gates/Gate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/key/Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/renderer/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/renderer/Renderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/renderer/SingleImageRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/enemy/EnemyExplosion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/enemy/EnemySummoner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/BackgroundGameOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/BackgroundWelcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/Scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/SceneGameOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/SceneManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/SceneStage1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/game/scene/ScenenWelcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/utils/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../ci-begin-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Physics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/Physics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/Background.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/Background.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/FrameCouter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/GameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/GameWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/Player/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/PlayerBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/Player/PlayerBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/Player/Sphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/SphereBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/Player/SphereBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_cuoi_khoa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_cuoi_khoa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/gates/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/gates/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/game/SphereBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/SphereBullet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../src/game/enemy/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/enemy/Enemy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../src/game/enemy/EnemyBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/enemy/EnemyBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/renderer/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/renderer/Animation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/renderer/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/renderer/Renderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/game/renderer/SingleImageRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/game/renderer/SingleImageRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/physics/BoxColider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/physics/BoxColider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/physics/Physics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/physics/Physics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../src/tklibs/SpriteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/tklibs/SpriteUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/Background.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/Background.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/FrameCouter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GameObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GamePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GameWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GameWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GameWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/GameWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/PlayerBullet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/Sphere.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/SphereBullet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/enemy/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/enemy/Enemy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/enemy/EnemyBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/enemy/EnemyBullet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/renderer/Animation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/renderer/Animation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/renderer/Renderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/renderer/Renderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/renderer/SingleImageRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/game/renderer/SingleImageRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/physics/BoxColider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/physics/BoxColider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/tklibs/SpriteUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../out/production/ci-begin-master/tklibs/SpriteUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../session_4.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,38 +22,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/game/enemy/Enemy.java">
+        <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/game/key/Key.java">
+        <entry file="file://$PROJECT_DIR$/src/game/GameWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="-1038">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/maps/Layer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#871#872#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/maps/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/GamePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/game/gates/Gate.java">
+        <entry file="file://$PROJECT_DIR$/src/game/GameObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -117,12 +93,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Program.java" />
         <option value="$PROJECT_DIR$/src/game/GamePanel.java" />
         <option value="$PROJECT_DIR$/src/game/GameWindow.java" />
         <option value="$PROJECT_DIR$/src/game/renderer/Animation.java" />
@@ -133,6 +108,12 @@
         <option value="$PROJECT_DIR$/src/game/enemy/Enemy.java" />
         <option value="$PROJECT_DIR$/src/game/key/Key.java" />
         <option value="$PROJECT_DIR$/src/game/gates/Gate.java" />
+        <option value="$PROJECT_DIR$/src/game/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/Program.java" />
+        <option value="$PROJECT_DIR$/src/maps/Layer.java" />
+        <option value="$PROJECT_DIR$/src/maps/Map.java" />
+        <option value="$PROJECT_DIR$/src/game/maps/Layer.java" />
+        <option value="$PROJECT_DIR$/src/game/maps/Map.java" />
       </list>
     </option>
   </component>
@@ -147,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,7 +151,7 @@
               <item name="Project_cuoi_khoa" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="gates" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project_cuoi_khoa" type="b2602c69:ProjectViewProjectNode" />
@@ -189,21 +169,7 @@
               <item name="Project_cuoi_khoa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="gates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project_cuoi_khoa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_cuoi_khoa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="key" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Project_cuoi_khoa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project_cuoi_khoa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Project_cuoi_khoa" type="b2602c69:ProjectViewProjectNode" />
@@ -216,14 +182,24 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548242702664" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548525429610" />
+    <property name="last_opened_file_path" value="E:/New folder (2)/SourceCode+GameBoom" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code Intensive\ci-begin-master\out\production\Project_cuoi_khoa\assets\images\maps" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,6 +212,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Project_cuoi_khoa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -254,31 +244,32 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13103953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3206951" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31604537" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33711508" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -320,37 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/GameObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/GamePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/GameWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/gates/gate2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -378,10 +338,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/gates/Gate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/game/key/Key.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="328">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#839#840#0" expanded="true" />
@@ -390,13 +360,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/gates/Gate.java">
+    <entry file="file://$PROJECT_DIR$/assets/images/maps/map.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maps/Layer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maps/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/maps/map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-520">
+          <caret line="4" column="96" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1038">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/maps/Layer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/maps/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/GameObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="60" column="41" lean-forward="true" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -477,6 +524,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>com.google.code.gson:gson:2.8.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -13,6 +13,7 @@ public class Gate extends GameObject {
     public Gate(){
         BufferedImage image = SpriteUtils.loadImage("E:\\Code Intensive\\ci-begin-master\\out\\production\\Project_cuoi_khoa\\assets\\images\\gates\\gate1.png");
         this.renderer = new SingleImageRenderer(image);
+
     }
 
 }
